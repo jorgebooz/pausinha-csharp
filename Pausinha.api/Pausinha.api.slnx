@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Pausinha.api/Pausinha.api.csproj" />
+  <Project Path="Pausinha.Application/Pausinha.Application.csproj" />
+  <Project Path="Pausinha.Domain/Pausinha.Domain.csproj" />
+  <Project Path="Pausinha.Infrastructure/Pausinha.Infrastructure.csproj" />
+</Solution>
