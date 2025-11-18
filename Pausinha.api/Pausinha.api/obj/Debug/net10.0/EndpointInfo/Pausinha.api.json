@@ -1,9 +1,8 @@
 {
-  "openapi": "3.0.4",
+  "openapi": "3.0.1",
   "info": {
-    "title": "Pausinha API",
-    "description": "API do projeto Pausinha - Futuro do Trabalho",
-    "version": "v1"
+    "title": "Pausinha.api",
+    "version": "1.0"
   },
   "paths": {
     "/api/v1/BreakSessions": {
@@ -13,7 +12,7 @@
         ],
         "responses": {
           "200": {
-            "description": "OK"
+            "description": "Success"
           }
         }
       },
@@ -42,7 +41,7 @@
         },
         "responses": {
           "200": {
-            "description": "OK"
+            "description": "Success"
           }
         }
       }
@@ -65,7 +64,7 @@
         ],
         "responses": {
           "200": {
-            "description": "OK"
+            "description": "Success"
           }
         }
       },
@@ -105,7 +104,7 @@
         },
         "responses": {
           "200": {
-            "description": "OK"
+            "description": "Success"
           }
         }
       },
@@ -126,7 +125,7 @@
         ],
         "responses": {
           "200": {
-            "description": "OK"
+            "description": "Success"
           }
         }
       }
@@ -138,7 +137,7 @@
         ],
         "responses": {
           "200": {
-            "description": "OK"
+            "description": "Success"
           }
         }
       },
@@ -167,7 +166,7 @@
         },
         "responses": {
           "200": {
-            "description": "OK"
+            "description": "Success"
           }
         }
       }
@@ -190,7 +189,7 @@
         ],
         "responses": {
           "200": {
-            "description": "OK"
+            "description": "Success"
           }
         }
       },
@@ -230,7 +229,7 @@
         },
         "responses": {
           "200": {
-            "description": "OK"
+            "description": "Success"
           }
         }
       },
@@ -251,7 +250,7 @@
         ],
         "responses": {
           "200": {
-            "description": "OK"
+            "description": "Success"
           }
         }
       }
@@ -263,7 +262,7 @@
         ],
         "responses": {
           "200": {
-            "description": "OK"
+            "description": "Success"
           }
         }
       },
@@ -292,7 +291,7 @@
         },
         "responses": {
           "200": {
-            "description": "OK"
+            "description": "Success"
           }
         }
       }
@@ -315,7 +314,7 @@
         ],
         "responses": {
           "200": {
-            "description": "OK"
+            "description": "Success"
           }
         }
       },
@@ -355,7 +354,7 @@
         },
         "responses": {
           "200": {
-            "description": "OK"
+            "description": "Success"
           }
         }
       },
@@ -376,7 +375,7 @@
         ],
         "responses": {
           "200": {
-            "description": "OK"
+            "description": "Success"
           }
         }
       }
@@ -407,7 +406,7 @@
         ],
         "responses": {
           "200": {
-            "description": "OK"
+            "description": "Success"
           }
         }
       }
@@ -438,7 +437,7 @@
         ],
         "responses": {
           "200": {
-            "description": "OK"
+            "description": "Success"
           }
         }
       }
@@ -539,19 +538,5 @@
         "additionalProperties": false
       }
     }
-  },
-  "tags": [
-    {
-      "name": "BreakSessions"
-    },
-    {
-      "name": "Companies"
-    },
-    {
-      "name": "Employees"
-    },
-    {
-      "name": "Reports"
-    }
-  ]
+  }
 }

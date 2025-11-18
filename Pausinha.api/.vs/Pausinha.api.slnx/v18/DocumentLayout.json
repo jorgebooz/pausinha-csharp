@@ -1,17 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\jorge\\OneDrive\\Documentos\\GitHub\\Pausinha.api\\",
+  "WorkspaceRootPath": "C:\\Users\\jorge\\OneDrive\\Documentos\\GitHub\\pausinha-csharp\\Pausinha.api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{97727ED7-ED43-EB12-EC02-905235FF6856}|Pausinha.Infrastructure\\Pausinha.Infrastructure.csproj|c:\\users\\jorge\\onedrive\\documentos\\github\\pausinha.api\\pausinha.infrastructure\\pausinha.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{97727ED7-ED43-EB12-EC02-905235FF6856}|Pausinha.Infrastructure\\Pausinha.Infrastructure.csproj|solutionrelative:pausinha.infrastructure\\pausinha.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{AF0065CA-C39C-BBA6-581D-E35720908882}|Pausinha.api\\Pausinha.api.csproj|c:\\users\\jorge\\onedrive\\documentos\\github\\pausinha-csharp\\pausinha.api\\pausinha.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF0065CA-C39C-BBA6-581D-E35720908882}|Pausinha.api\\Pausinha.api.csproj|solutionrelative:pausinha.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99CD4BAF-A7B4-5411-65FD-975C1EC42676}|Pausinha.Application\\Pausinha.Application.csproj|c:\\users\\jorge\\onedrive\\documentos\\github\\pausinha.api\\pausinha.application\\pausinha.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{99CD4BAF-A7B4-5411-65FD-975C1EC42676}|Pausinha.Application\\Pausinha.Application.csproj|solutionrelative:pausinha.application\\pausinha.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF0065CA-C39C-BBA6-581D-E35720908882}|Pausinha.api\\Pausinha.api.csproj|c:\\users\\jorge\\onedrive\\documentos\\github\\pausinha.api\\pausinha.api\\pausinha.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{AF0065CA-C39C-BBA6-581D-E35720908882}|Pausinha.api\\Pausinha.api.csproj|c:\\users\\jorge\\onedrive\\documentos\\github\\pausinha-csharp\\pausinha.api\\pausinha.api\\pausinha.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{AF0065CA-C39C-BBA6-581D-E35720908882}|Pausinha.api\\Pausinha.api.csproj|solutionrelative:pausinha.api\\pausinha.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -27,40 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Pausinha.Application",
-              "DocumentMoniker": "C:\\Users\\jorge\\OneDrive\\Documentos\\GitHub\\Pausinha.api\\Pausinha.Application\\Pausinha.Application.csproj",
-              "RelativeDocumentMoniker": "Pausinha.Application\\Pausinha.Application.csproj",
-              "ToolTip": "C:\\Users\\jorge\\OneDrive\\Documentos\\GitHub\\Pausinha.api\\Pausinha.Application\\Pausinha.Application.csproj",
-              "RelativeToolTip": "Pausinha.Application\\Pausinha.Application.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Title": "Pausinha.api",
+              "DocumentMoniker": "C:\\Users\\jorge\\OneDrive\\Documentos\\GitHub\\pausinha-csharp\\Pausinha.api\\Pausinha.api\\Pausinha.api.csproj",
+              "RelativeDocumentMoniker": "Pausinha.api\\Pausinha.api.csproj",
+              "ToolTip": "C:\\Users\\jorge\\OneDrive\\Documentos\\GitHub\\pausinha-csharp\\Pausinha.api\\Pausinha.api\\Pausinha.api.csproj",
+              "RelativeToolTip": "Pausinha.api\\Pausinha.api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-17T23:04:25.261Z",
+              "WhenOpened": "2025-11-17T23:55:44.929Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Pausinha.Infrastructure",
-              "DocumentMoniker": "C:\\Users\\jorge\\OneDrive\\Documentos\\GitHub\\Pausinha.api\\Pausinha.Infrastructure\\Pausinha.Infrastructure.csproj",
-              "RelativeDocumentMoniker": "Pausinha.Infrastructure\\Pausinha.Infrastructure.csproj",
-              "ToolTip": "C:\\Users\\jorge\\OneDrive\\Documentos\\GitHub\\Pausinha.api\\Pausinha.Infrastructure\\Pausinha.Infrastructure.csproj",
-              "RelativeToolTip": "Pausinha.Infrastructure\\Pausinha.Infrastructure.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-17T23:04:05.45Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Pausinha.api",
-              "DocumentMoniker": "C:\\Users\\jorge\\OneDrive\\Documentos\\GitHub\\Pausinha.api\\Pausinha.api\\Pausinha.api.csproj",
-              "RelativeDocumentMoniker": "Pausinha.api\\Pausinha.api.csproj",
-              "ToolTip": "C:\\Users\\jorge\\OneDrive\\Documentos\\GitHub\\Pausinha.api\\Pausinha.api\\Pausinha.api.csproj",
-              "RelativeToolTip": "Pausinha.api\\Pausinha.api.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-17T23:03:51.412Z",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jorge\\OneDrive\\Documentos\\GitHub\\pausinha-csharp\\Pausinha.api\\Pausinha.api\\Program.cs",
+              "RelativeDocumentMoniker": "Pausinha.api\\Program.cs",
+              "ToolTip": "C:\\Users\\jorge\\OneDrive\\Documentos\\GitHub\\pausinha-csharp\\Pausinha.api\\Pausinha.api\\Program.cs",
+              "RelativeToolTip": "Pausinha.api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T23:31:02.296Z",
               "EditorCaption": ""
             }
           ]
