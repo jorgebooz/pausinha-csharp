@@ -695,4 +695,3 @@ C:\Users\jorge\OneDrive\Documentos\GitHub\pausinha-csharp\Pausinha.api\Pausinha.
 C:\Users\jorge\OneDrive\Documentos\GitHub\pausinha-csharp\Pausinha.api\Pausinha.api\bin\Debug\net10.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
 C:\Users\jorge\OneDrive\Documentos\GitHub\pausinha-csharp\Pausinha.api\Pausinha.api\bin\Debug\net10.0\runtimes\linux-riscv64\native\libe_sqlite3.so
 C:\Users\jorge\OneDrive\Documentos\GitHub\pausinha-csharp\Pausinha.api\Pausinha.api\bin\Debug\net10.0\runtimes\win\lib\net9.0\System.Windows.Extensions.dll
-C:\Users\jorge\OneDrive\Documentos\GitHub\pausinha-csharp\Pausinha.api\Pausinha.api\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt

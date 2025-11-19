@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Pausinha.api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f1f8d6ab96339d56b127edae9c39312779661d5b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a27cc3b0750b32e07946e9a3082a08dde69e3c9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Pausinha.api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Pausinha.api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
