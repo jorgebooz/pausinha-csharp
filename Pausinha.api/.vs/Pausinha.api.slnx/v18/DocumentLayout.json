@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\jorge\\OneDrive\\Documentos\\GitHub\\pausinha-csharp\\Pausinha.api\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AF0065CA-C39C-BBA6-581D-E35720908882}|Pausinha.api\\Pausinha.api.csproj|c:\\users\\jorge\\onedrive\\documentos\\github\\pausinha-csharp\\pausinha.api\\pausinha.api\\controller\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF0065CA-C39C-BBA6-581D-E35720908882}|Pausinha.api\\Pausinha.api.csproj|solutionrelative:pausinha.api\\controller\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF0065CA-C39C-BBA6-581D-E35720908882}|Pausinha.api\\Pausinha.api.csproj|c:\\users\\jorge\\onedrive\\documentos\\github\\pausinha-csharp\\pausinha.api\\pausinha.api\\controller\\companiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF0065CA-C39C-BBA6-581D-E35720908882}|Pausinha.api\\Pausinha.api.csproj|solutionrelative:pausinha.api\\controller\\companiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AF0065CA-C39C-BBA6-581D-E35720908882}|Pausinha.api\\Pausinha.api.csproj|c:\\users\\jorge\\onedrive\\documentos\\github\\pausinha-csharp\\pausinha.api\\pausinha.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AF0065CA-C39C-BBA6-581D-E35720908882}|Pausinha.api\\Pausinha.api.csproj|solutionrelative:pausinha.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -18,11 +26,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\jorge\\OneDrive\\Documentos\\GitHub\\pausinha-csharp\\Pausinha.api\\Pausinha.api\\Controller\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "Pausinha.api\\Controller\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\jorge\\OneDrive\\Documentos\\GitHub\\pausinha-csharp\\Pausinha.api\\Pausinha.api\\Controller\\EmployeesController.cs",
+              "RelativeToolTip": "Pausinha.api\\Controller\\EmployeesController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T01:41:59.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "CompaniesController.cs",
+              "DocumentMoniker": "C:\\Users\\jorge\\OneDrive\\Documentos\\GitHub\\pausinha-csharp\\Pausinha.api\\Pausinha.api\\Controller\\CompaniesController.cs",
+              "RelativeDocumentMoniker": "Pausinha.api\\Controller\\CompaniesController.cs",
+              "ToolTip": "C:\\Users\\jorge\\OneDrive\\Documentos\\GitHub\\pausinha-csharp\\Pausinha.api\\Pausinha.api\\Controller\\CompaniesController.cs",
+              "RelativeToolTip": "Pausinha.api\\Controller\\CompaniesController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAIwAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T01:41:19.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Pausinha.api.csproj",
               "DocumentMoniker": "C:\\Users\\jorge\\OneDrive\\Documentos\\GitHub\\pausinha-csharp\\Pausinha.api\\Pausinha.api\\Pausinha.api.csproj",
               "RelativeDocumentMoniker": "Pausinha.api\\Pausinha.api.csproj",
@@ -34,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\jorge\\OneDrive\\Documentos\\GitHub\\pausinha-csharp\\Pausinha.api\\Pausinha.api\\Program.cs",
               "RelativeDocumentMoniker": "Pausinha.api\\Program.cs",
